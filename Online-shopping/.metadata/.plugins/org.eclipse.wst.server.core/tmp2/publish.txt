@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Jul 09 13:30:37 CST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\skara\\.m2\\repository\\org\\springframework\\spring-web\\4.3.6.RELEASE\\spring-web-4.3.6.RELEASE.jar=WEB-INF/lib/spring-web-4.3.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:shoppingbackend2=WEB-INF/lib/shoppingbackend-0.0.1-SNAPSHOT.jar
